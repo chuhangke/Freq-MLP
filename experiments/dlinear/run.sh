@@ -1,4 +1,0 @@
-nohup python /home/inspur/kch6109121112/pycharm/LargeST-main/experiments/dlinear/main.py --device cuda:0 --dataset SD --years 2019_48 --model_name dlinear_sd --seed 2024 --bs 64 --max_epoch 100 --input_dim 1> dlinear_sd.log 2>&1
-nohup python /home/inspur/kch6109121112/pycharm/LargeST-main/experiments/dlinear/main.py --device cuda:0 --dataset GBA --years 2019_48 --model_name dlinear_gba --seed 2024 --bs 64 --max_epoch 100 --input_dim 1> dlinear_gba.log 2>&1
-nohup python /home/inspur/kch6109121112/pycharm/LargeST-main/experiments/dlinear/main.py --device cuda:0 --dataset GLA --years 2019_48 --model_name dlinear_gla --seed 2024 --bs 64 --max_epoch 100 --input_dim 1> dlinear_gla.log 2>&1
-nohup python /home/inspur/kch6109121112/pycharm/LargeST-main/experiments/dlinear/main.py --device cuda:0 --dataset CA --years 2019_48 --model_name dlinear_ca --seed 2024 --bs 64 --max_epoch 100 --input_dim 1> dlinear_ca.log 2>&1
