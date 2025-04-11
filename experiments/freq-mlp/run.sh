@@ -1,1 +1,0 @@
-python experiments/ours/main.py --device cuda:2 --dataset SD --years 2019_12 --model_name ours --seed 2024 --bs 64
