@@ -1,1 +1,1 @@
-# coder of Freq-MLP
+# code of Freq-MLP
